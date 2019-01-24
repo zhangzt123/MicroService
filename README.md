@@ -1,4 +1,4 @@
-<p style="coler="red">`Language`</p>
+<p style="coler:red;">Language</p>
 
 <p>
 使用keytool命令生成证书：<br>
